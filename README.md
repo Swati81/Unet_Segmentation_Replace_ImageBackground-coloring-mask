@@ -19,15 +19,19 @@
 
 #### Results - 
 
+1.
+
 ![car_unet](https://user-images.githubusercontent.com/52413661/172806953-aeea4ff0-3bc9-4723-8c94-23148e85fe41.gif)
 
 
+2.
+
 ![Fashion-unet](https://user-images.githubusercontent.com/52413661/172811026-510d9a96-e162-469b-baeb-d5c6c9358103.gif)
 
-
+3.
 ![hihop_unet](https://user-images.githubusercontent.com/52413661/172811079-d82de132-4e9a-400a-a310-5018b0808394.gif)
 
-
+4.
 ![pet_3](https://user-images.githubusercontent.com/52413661/172811164-e170b50f-c177-4abd-9246-db4317d812c3.jpg)
 
 ![pet_4](https://user-images.githubusercontent.com/52413661/172811170-dc2dd03c-e600-4aa4-8c0e-dcc2848481e6.jpg)
