@@ -20,24 +20,24 @@
 
 #### Results - 
 
-**1. Car data**
+**1. Car image segmentation**
 
 ![car_unet](https://user-images.githubusercontent.com/52413661/172806953-aeea4ff0-3bc9-4723-8c94-23148e85fe41.gif)
 
 
-**2. Fashion data**
+**2. Fashion image segmentation**
 
 ![fashion_unet (1)](https://user-images.githubusercontent.com/52413661/172812138-a0deba57-a1c3-47eb-851a-b26c9cabf973.gif)
 
 
 
-**3. Hiphop data**
+**3. Hiphop image segmentation**
 
 ![hihop_unet](https://user-images.githubusercontent.com/52413661/172811079-d82de132-4e9a-400a-a310-5018b0808394.gif)
 
 
 
-**4. Pet data**
+**4. Pet image segmentation**
 
 1.
 ![pet_3](https://user-images.githubusercontent.com/52413661/172811164-e170b50f-c177-4abd-9246-db4317d812c3.jpg)
