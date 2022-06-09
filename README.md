@@ -12,6 +12,10 @@
 
 **python: 3.7.5**
 
+**opencv-python: 4.5.5**
+
+
+
 ###### Dataset Link - [https://drive.google.com/drive/folders/1azha3QqFnT6M-Zgdu2KXWZGuB5aXpWR7?usp=sharing](https://drive.google.com/drive/folders/1azha3QqFnT6M-Zgdu2KXWZGuB5aXpWR7?usp=sharing)
 
 
