@@ -62,3 +62,13 @@
 
 5.
 ![pet_5](https://user-images.githubusercontent.com/52413661/172811254-992a8373-a052-43a9-a2e0-c4199ef89306.jpg)
+
+
+
+### Car data Accuracy-Loss -
+
+![car_segment_accuracy](https://user-images.githubusercontent.com/52413661/172825888-502c2ba1-5ecf-49bc-b740-20c920736463.PNG)
+
+### Hiphop data Accuracy-Loss - 
+
+![accuracy_loss_2_class](https://user-images.githubusercontent.com/52413661/172826011-5d36b35b-ea7b-40bc-8069-2923be491971.PNG)
