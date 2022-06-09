@@ -4,7 +4,7 @@
 #### requirements:-
 **cuda: 11.1**
 
-**cudnn: 8.1**
+**cudnn: 8.1.0**
 
 **tensorflow-gpu: 2.7.0**
 
