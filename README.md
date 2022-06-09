@@ -24,12 +24,16 @@
 
 ![car_unet](https://user-images.githubusercontent.com/52413661/172806953-aeea4ff0-3bc9-4723-8c94-23148e85fe41.gif)
 
+
 **2. Fashion data**
 ![fashion_unet (1)](https://user-images.githubusercontent.com/52413661/172812138-a0deba57-a1c3-47eb-851a-b26c9cabf973.gif)
 
 
+
 **3. Hiphop data**
 ![hihop_unet](https://user-images.githubusercontent.com/52413661/172811079-d82de132-4e9a-400a-a310-5018b0808394.gif)
+
+
 
 **4. Pet data**
 1.
