@@ -18,8 +18,9 @@
 
 ###### Dataset Link - [https://drive.google.com/drive/folders/1azha3QqFnT6M-Zgdu2KXWZGuB5aXpWR7?usp=sharing](https://drive.google.com/drive/folders/1azha3QqFnT6M-Zgdu2KXWZGuB5aXpWR7?usp=sharing)
 
+##### Unet Model-Structure -
 
-
+![unet](https://user-images.githubusercontent.com/52413661/172825672-24fd1e59-64d0-455e-a753-ef1c8dc359e7.png)
 
 
 #### Results - 
