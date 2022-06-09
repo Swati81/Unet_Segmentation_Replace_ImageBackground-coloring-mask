@@ -1,7 +1,7 @@
 ###  Unet_Segmentation_with_Replace-Background-color-mask-etc
 
 
-#### requirements:-
+#### our requirements:-
 **cuda: 11.1**
 
 **cudnn: 8.1.0**
