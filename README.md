@@ -74,4 +74,6 @@
 ![accuracy_loss_2_class](https://user-images.githubusercontent.com/52413661/172826011-5d36b35b-ea7b-40bc-8069-2923be491971.PNG)
 
 
-''' print(m)'''
+''' 
+print(m)
+'''
